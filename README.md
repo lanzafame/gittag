@@ -1,3 +1,3 @@
 # Test
 
-Project is now ready for release v0.1.0.
+Working on new `v0.2.0` release of project.
