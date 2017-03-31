@@ -1,3 +1,3 @@
 # Test
 
-Project is now ready for release v0.1.0.
+Project is now ready for release v0.1.1.
